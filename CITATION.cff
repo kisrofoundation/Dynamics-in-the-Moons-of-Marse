@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "A Resonance-Based Extension to Tidal Interaction Theory: A Conceptual Model of Dilaso Spiral Wave Dynamics in the Mars–Phobos–Deimos System"
+message: "If you use this work, please cite it as below."
+type: article
+authors:
+  - family-names: Lalgi
+    given-names: Dineshkumar
+    affiliation: Independent Researcher
+    email: kisrofoundation@gmail.com
+date-released: 2026-02-14
+doi: 10.5281/zenodo.18640476
+url: https://doi.org/10.5281/zenodo.18640476
+abstract: >
+  This preprint proposes a speculative resonance-based extension to classical tidal interaction
+  theory in the Mars–Phobos–Deimos system. The Dilaso Spiral Wave Force (DSWF) is introduced
+  as a phenomenological oscillatory modulation term added to conventional tidal models.
+  The framework remains conceptual and requires further numerical and observational validation.
+keywords:
+  - Mars
+  - Phobos
+  - Deimos
+  - tidal resonance
+  - orbital dynamics
+  - hypothesis
+license: "CC-BY-4.0"
