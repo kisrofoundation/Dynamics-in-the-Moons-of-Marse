@@ -1,6 +1,6 @@
 # Dynamics in the Moons' of Marse 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18640476.svg)](https://doi.org/10.5281/zenodo.18640476)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18653596.svg)](https://doi.org/10.5281/zenodo.18653596)
 
 Preprint | Hypothesis | Conceptual Model
 # Dynamics-in-the-Moons'-of-Marse
