@@ -14,7 +14,7 @@ If you use this work, please cite:
 ### APA
 Lalgi, D. (2026). *A Resonance-Based Extension to Tidal Interaction Theory: 
 A Conceptual Model of Dilaso Spiral Wave Dynamics in the Mars–Phobos–Deimos System*. 
-Zenodo. https://doi.org/10.5281/zenodo.18640476
+Zenodo. https://doi.org/10.5281/zenodo.18653596
 
 ### BibTeX
 ```bibtex
@@ -23,7 +23,7 @@ Zenodo. https://doi.org/10.5281/zenodo.18640476
   title   = {A Resonance-Based Extension to Tidal Interaction Theory: A Conceptual Model of Dilaso Spiral Wave Dynamics in the Mars--Phobos--Deimos System},
   year    = {2026},
   publisher = {Zenodo},
-  doi     = {10.5281/zenodo.18640476},
-  url     = {https://doi.org/10.5281/zenodo.18640476}
+  doi     = {10.5281/zenodo.18653596},
+  url     = {https://doi.org/10.5281/zenodo.18653596}
 }
 ```
